@@ -68,7 +68,7 @@ make -f docker.Makefile shell
 ## Legal
 
 *Brought to you courtesy of our legal counsel. For more context,
-see the [NOTICE](https://github.com/docker/cli/blob/master/NOTICE) document in this repo.*
+see the [NOTICE](https://github.com/docker/cli/blob/master/NOTICE) document in this repository.*
 
 Use and transfer of Docker may be subject to certain restrictions by the
 United States and other governments.
